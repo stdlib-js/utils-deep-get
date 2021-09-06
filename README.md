@@ -165,6 +165,13 @@ for ( i = 0; i < data.length; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/deep-pluck`][@stdlib/utils/deep-pluck]: extract a nested property value from each element of an object array.
+-   [`@stdlib/utils/deep-set`][@stdlib/utils/deep-set]: set a nested property value.
+
 </section>
 
 <!-- /.related -->
@@ -225,6 +232,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-deep-get/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/utils/deep-pluck]: https://github.com/stdlib-js/utils-deep-pluck
+
+[@stdlib/utils/deep-set]: https://github.com/stdlib-js/utils-deep-set
+
+<!-- </related-links> -->
 
 </section>
 
