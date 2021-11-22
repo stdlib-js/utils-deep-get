@@ -20,7 +20,7 @@ limitations under the License.
 
 # Deep Get
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Get a nested property value.
 
@@ -169,8 +169,8 @@ for ( i = 0; i < data.length; i++ ) {
 
 ## See Also
 
--   [`@stdlib/utils/deep-pluck`][@stdlib/utils/deep-pluck]: extract a nested property value from each element of an object array.
--   [`@stdlib/utils/deep-set`][@stdlib/utils/deep-set]: set a nested property value.
+-   <span class="package-name">[`@stdlib/utils/deep-pluck`][@stdlib/utils/deep-pluck]</span><span class="delimiter">: </span><span class="description">extract a nested property value from each element of an object array.</span>
+-   <span class="package-name">[`@stdlib/utils/deep-set`][@stdlib/utils/deep-set]</span><span class="delimiter">: </span><span class="description">set a nested property value.</span>
 
 </section>
 
@@ -221,8 +221,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/utils-deep-get/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/utils-deep-get?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/utils-deep-get.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/utils-deep-get/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
