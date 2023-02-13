@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/utils/deep-get"
-click B href "https://github.com/stdlib-js/utils-deep-get/tree/main"
-click C href "https://github.com/stdlib-js/utils-deep-get/tree/production"
-click D href "https://github.com/stdlib-js/utils-deep-get/tree/esm"
-click E href "https://github.com/stdlib-js/utils-deep-get/tree/deno"
-click F href "https://github.com/stdlib-js/utils-deep-get/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/utils/deep-get"
+%% click B href "https://github.com/stdlib-js/utils-deep-get/tree/main"
+%% click C href "https://github.com/stdlib-js/utils-deep-get/tree/production"
+%% click D href "https://github.com/stdlib-js/utils-deep-get/tree/esm"
+%% click E href "https://github.com/stdlib-js/utils-deep-get/tree/deno"
+%% click F href "https://github.com/stdlib-js/utils-deep-get/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/utils/deep-get
