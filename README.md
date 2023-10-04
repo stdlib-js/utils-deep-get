@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import deepGet from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-deep-get@esm/index.mjs';
+import deepGet from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-deep-get@v0.1.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-deep-get@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-deep-get@v0.1.1-esm/index.mjs';
 ```
 
 #### deepGet( obj, path\[, options] )
@@ -148,7 +148,7 @@ var val = dget( obj );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import deepGet from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-deep-get@esm/index.mjs';
+import deepGet from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-deep-get@v0.1.1-esm/index.mjs';
 
 var data;
 var keys;
